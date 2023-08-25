@@ -3,7 +3,7 @@
   "displayName": "EPConvert",
   "version": "0.0.1",
   "unity": "2021.3",
-  "description": "",
+  "description": "Allows you to convert from Polygon Collider 2D to Edge Collider 2D and vice versa.",
   "license": "MIT",
   "keywords": [ "tools" ],
   "dependencies": {},
