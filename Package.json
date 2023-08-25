@@ -1,0 +1,11 @@
+{
+  "name": "com.unity.epconvert",
+  "displayName": "EPConvert",
+  "version": "0.0.1",
+  "unity": "2021.3",
+  "description": "",
+  "license": "MIT",
+  "keywords": [ "tools" ],
+  "dependencies": {},
+  "author": { "name": "Unity" }
+}
