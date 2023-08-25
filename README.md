@@ -9,5 +9,5 @@
 Copy and paste in Package Manager:
 
 ```C#
-https://github.com/ARtronClassicStudio/ColorAccent.git
+[https://github.com/ARtronClassicStudio/ColorAccent.git](https://github.com/ARtronClassicStudio/EPConvert.git)https://github.com/ARtronClassicStudio/EPConvert.git
 ```
