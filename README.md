@@ -11,3 +11,8 @@ Copy and paste in Package Manager:
 ```C#
 https://github.com/ARtronClassicStudio/EPConvert.git
 ```
+
+# Usage:
+Right click on the collider and select an option.
+
+![image](https://github.com/ARtronClassicStudio/EPConvert/assets/68843488/09df1ce1-89d1-4ca4-afd4-e038076e3bda)
